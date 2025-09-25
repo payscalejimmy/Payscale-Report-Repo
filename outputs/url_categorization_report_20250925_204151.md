@@ -1,4 +1,4 @@
-# PayScale URL Categorization Report
+# Payscale URL Categorization Report
 *Generated on 20250925_204151*
 
 ## 📊 Executive Summary
