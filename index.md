@@ -2,6 +2,8 @@
 layout: default
 title: Payscale SEO Custom Tools - Log Analysis
 ---
+#Video Overview
+[Here is a YouTube Overview of the process to create these reports.](https://youtu.be/lKa6NsrGcZU)
 
 ## Links
 Please find the links for the tools that parse the Botify data. The Colab tool, specifically step 2, requires the spreadsheet and the JSON formatter for ongoing categorization of the site by sections.
@@ -14,5 +16,7 @@ Please find the links for the tools that parse the Botify data. The Colab tool, 
 - [Sep 1 - 25 Resource Logs](/outputs/url_categorization_report_20250925_resources.md)
 - [Sep 1 - 4 Logs](/outputs/url_categorization_report_sep1-4.md)
 - [Sep 15 - 18 Logs](/outputs/url_categorization_report_20250925_sep15-18.md)
+
+
 ---
 *Generated on September 25, 2025*
