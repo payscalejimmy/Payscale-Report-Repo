@@ -1,0 +1,10 @@
+# Site settings
+title: Log Analysis Reports
+description: A collection of log analysis reports.
+
+# The theme is what Jekyll uses to apply styling and a layout
+# This is a theme provided by GitHub and works out of the box
+theme: jekyll-theme-cayman
+
+# If you have custom CSS or other assets, you'd configure them here
+# but for a basic setup, this is not needed.
