@@ -2,7 +2,7 @@
 layout: default
 title: Payscale SEO Custom Tools - Log Analysis
 ---
-#Video Overview
+# Video Overview
 [Here is a YouTube Overview of the process to create these reports.](https://youtu.be/lKa6NsrGcZU)
 
 ## Links
