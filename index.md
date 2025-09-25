@@ -8,7 +8,6 @@ title: Welcome
 This is a collection of reports for log analysis.
 
 ### Reports
-- - lorem(/outputs/url_categorization_report_20250925_204151.md)
-
+- [Lorem](/outputs/url_categorization_report_20250925_204151.md)
 ---
 *Generated on September 25, 2025*
