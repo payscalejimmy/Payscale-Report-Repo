@@ -1,13 +1,18 @@
 ---
 layout: default
-title: Welcome
+title: Payscale SEO Custom Tools - Log Analysis
 ---
 
-# Log Analysis
+## Links
+Please find the links for the tools that parse the Botify data. The Colab tool, specifically step 2, requires the spreadsheet and the JSON formatter for ongoing categorization of the site by sections.
 
-This is a collection of reports for log analysis.
+- [Colab Parsing Tool](https://colab.research.google.com/drive/1x0S9XcJ5iULEcM8frDPNpoP1qnSzdCRa?usp=sharing)
+- [Regex Spreadsheet](https://docs.google.com/spreadsheets/d/1sBv_tUgGK4joTZdLr3Uic15U0IeCwR4MQPmO5rPD8b4/edit?gid=2022667523#gid=2022667523)
+- [JSON Formatter for Colab Tool](https://regex-pattern-generator.onrender.com/)
 
-### Reports
-- [Lorem](/outputs/url_categorization_report_20250925_204151.md)
+### September Reports
+- [Sep 1 - 25 Resource Logs](/outputs/url_categorization_report_20250925_resources.md)
+- [Sep 1 - 4 Logs](/outputs/url_categorization_report_sep1-4.md)
+- [Sep 15 - 18 Logs](/outputs/url_categorization_report_20250925_sep15-18.md)
 ---
 *Generated on September 25, 2025*
