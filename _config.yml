@@ -1,6 +1,6 @@
 # Site settings
 title: Log Analysis Reports
-description: This is a repository which parses log data [using this tool](https://colab.research.google.com/drive/1x0S9XcJ5iULEcM8frDPNpoP1qnSzdCRa?usp=sharing)
+description: This is a repository of parsed log data from Botify for Payscale.
 
 # The theme is what Jekyll uses to apply styling and a layout
 # This is a theme provided by GitHub and works out of the box
