@@ -3,8 +3,8 @@ layout: default
 title: Payscale SEO Custom Tools - Log Analysis
 ---
 # Video Overview
-[Here is a YouTube Overview of the process to create these reports.](https://youtu.be/lKa6NsrGcZU)
-[Here is the full output of the three September tests](https://drive.google.com/drive/folders/1cJUoNbeTBqoh0MtFraGRay1hsGxVv-Fj?usp=drive_link)
+- [Here is a YouTube Overview of the process to create these reports.](https://youtu.be/lKa6NsrGcZU)
+- [Here is the full output of the three September tests](https://drive.google.com/drive/folders/1cJUoNbeTBqoh0MtFraGRay1hsGxVv-Fj?usp=drive_link)
 
 ## Links
 Please find the links for the tools that parse the Botify data. The Colab tool, specifically step 2, requires the spreadsheet and the JSON formatter for ongoing categorization of the site by sections.
