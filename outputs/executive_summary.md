@@ -1,6 +1,6 @@
 # GA4 Week-over-Week Executive Summary
-**Analysis Period:** September 01, 2025 - September 29, 2025
-**Report Generated:** 2025-10-01 10:33:31
+**Analysis Period:** September 01, 2025 - September 30, 2025
+**Report Generated:** 2025-10-02 10:18:49
 
 ⚠️ **Data Completeness Notice:**
 - **Week 5** (Sep 29 - Oct 05): Missing data for 5 day(s) - Oct 01, Oct 02, Oct 03, Oct 04, Oct 05
@@ -12,7 +12,22 @@
 ### Week 2 vs Week 1
 **Period:** Sep 08 - Sep 14 vs Sep 01 - Sep 07
 
-#### Top Channel Changes
+#### Complete Channel Performance Table
+| Channel | Current Week Users | Previous Week Users | User Change | User Change % | Current Week Key Events | Previous Week Key Events | Key Event Change | Key Event Change % |
+|---------|-------------------:|--------------------:|------------:|--------------:|------------------------:|-------------------------:|-----------------:|-------------------:|
+| Paid Search | 25,199 | 11,916 | +13,283 | +111.5% | 1,301 | 448 | +853 | +190.4% |
+| Organic Search | 14,499 | 12,675 | +1,824 | +14.4% | 373 | 352 | +21 | +6.0% |
+| Direct | 25,770 | 24,380 | +1,390 | +5.7% | 541 | 327 | +214 | +65.4% |
+| Referrals - Other | 1,554 | 1,207 | +347 | +28.7% | 62 | 23 | +39 | +169.6% |
+| Referrals - Internal Platforms | 719 | 372 | +347 | +93.3% | 16 | 2 | +14 | +700.0% |
+| Referrals - Public Relations | 179 | 125 | +54 | +43.2% | 25 | 25 | +0 | +0.0% |
+| Source/Medium Other | 838 | 796 | +42 | +5.3% | 24 | 11 | +13 | +118.2% |
+| Earned Social | 665 | 632 | +33 | +5.2% | 42 | 28 | +14 | +50.0% |
+| AI Search | 695 | 678 | +17 | +2.5% | 17 | 17 | +0 | +0.0% |
+| Paid Social | 96 | 115 | -19 | -16.5% | 2 | 4 | -2 | -50.0% |
+| Email | 14,920 | 18,025 | -3,105 | -17.2% | 819 | 1,598 | -779 | -48.7% |
+
+#### Top Channel Highlights
 **Biggest User Increases:**
 - **Paid Search**: +13,283 users (+111.5%)
 - **Organic Search**: +1,824 users (+14.4%)
@@ -21,7 +36,7 @@
 **Biggest User Decreases:**
 - **Email**: -3,105 users (-17.2%)
 - **Paid Social**: -19 users (-16.5%)
-- **AI Search**: 17 users (+2.5%)
+- **AI Search**: +17 users (+2.5%)
 
 #### Top Source/Medium Changes
 **Biggest Traffic Increases:**
@@ -59,7 +74,22 @@
 ### Week 3 vs Week 2
 **Period:** Sep 15 - Sep 21 vs Sep 08 - Sep 14
 
-#### Top Channel Changes
+#### Complete Channel Performance Table
+| Channel | Current Week Users | Previous Week Users | User Change | User Change % | Current Week Key Events | Previous Week Key Events | Key Event Change | Key Event Change % |
+|---------|-------------------:|--------------------:|------------:|--------------:|------------------------:|-------------------------:|-----------------:|-------------------:|
+| Source/Medium Other | 1,749 | 838 | +911 | +108.7% | 181 | 24 | +157 | +654.2% |
+| AI Search | 744 | 695 | +49 | +7.1% | 25 | 17 | +8 | +47.1% |
+| Paid Social | 134 | 96 | +38 | +39.6% | 0 | 2 | -2 | -100.0% |
+| Referrals - Other | 1,535 | 1,554 | -19 | -1.2% | 28 | 62 | -34 | -54.8% |
+| Referrals - Public Relations | 116 | 179 | -63 | -35.2% | 12 | 25 | -13 | -52.0% |
+| Earned Social | 544 | 665 | -121 | -18.2% | 5 | 42 | -37 | -88.1% |
+| Referrals - Internal Platforms | 333 | 719 | -386 | -53.7% | 2 | 16 | -14 | -87.5% |
+| Organic Search | 12,741 | 14,499 | -1,758 | -12.1% | 248 | 373 | -125 | -33.5% |
+| Direct | 23,526 | 25,770 | -2,244 | -8.7% | 383 | 541 | -158 | -29.2% |
+| Email | 11,441 | 14,920 | -3,479 | -23.3% | 515 | 819 | -304 | -37.1% |
+| Paid Search | 17,213 | 25,199 | -7,986 | -31.7% | 1,235 | 1,301 | -66 | -5.1% |
+
+#### Top Channel Highlights
 **Biggest User Increases:**
 - **Source/Medium Other**: +911 users (+108.7%)
 - **AI Search**: +49 users (+7.1%)
@@ -106,11 +136,26 @@
 ### Week 4 vs Week 3
 **Period:** Sep 22 - Sep 28 vs Sep 15 - Sep 21
 
-#### Top Channel Changes
+#### Complete Channel Performance Table
+| Channel | Current Week Users | Previous Week Users | User Change | User Change % | Current Week Key Events | Previous Week Key Events | Key Event Change | Key Event Change % |
+|---------|-------------------:|--------------------:|------------:|--------------:|------------------------:|-------------------------:|-----------------:|-------------------:|
+| Referrals - Public Relations | 117 | 116 | +1 | +0.9% | 11 | 12 | -1 | -8.3% |
+| Paid Social | 115 | 134 | -19 | -14.2% | 1 | 0 | +1 | +100.0% |
+| Referrals - Internal Platforms | 277 | 333 | -56 | -16.8% | 1 | 2 | -1 | -50.0% |
+| AI Search | 668 | 744 | -76 | -10.2% | 19 | 25 | -6 | -24.0% |
+| Earned Social | 300 | 544 | -244 | -44.9% | 11 | 5 | +6 | +120.0% |
+| Organic Search | 12,325 | 12,741 | -416 | -3.3% | 283 | 248 | +35 | +14.1% |
+| Referrals - Other | 1,015 | 1,535 | -520 | -33.9% | 27 | 28 | -1 | -3.6% |
+| Source/Medium Other | 393 | 1,749 | -1,356 | -77.5% | 28 | 181 | -153 | -84.5% |
+| Direct | 21,900 | 23,526 | -1,626 | -6.9% | 404 | 383 | +21 | +5.5% |
+| Email | 8,193 | 11,441 | -3,248 | -28.4% | 356 | 515 | -159 | -30.9% |
+| Paid Search | 9,844 | 17,213 | -7,369 | -42.8% | 783 | 1,235 | -452 | -36.6% |
+
+#### Top Channel Highlights
 **Biggest User Increases:**
 - **Referrals - Public Relations**: +1 users (+0.9%)
-- **Paid Social**: +-19 users (-14.2%)
-- **Referrals - Internal Platforms**: +-56 users (-16.8%)
+- **Paid Social**: -19 users (-14.2%)
+- **Referrals - Internal Platforms**: -56 users (-16.8%)
 
 **Biggest User Decreases:**
 - **Paid Search**: -7,369 users (-42.8%)
@@ -121,9 +166,9 @@
 **Biggest Traffic Increases:**
 - **yahoo / organic**: +12 users (+7.9%) | 0 key events
 - **duckduckgo / organic**: +8 users (+8.4%) | 0 key events
-- **linkedin / paidsocial**: +-28 users (-20.9%) | 1 key events
-- **chatgpt.com / referral**: +-35 users (-6.9%) | 15 key events
-- **dpsite / popup**: +-87 users (-43.7%) | 14 key events
+- **linkedin / paidsocial**: -28 users (-20.9%) | 1 key events
+- **chatgpt.com / referral**: -35 users (-6.9%) | 15 key events
+- **dpsite / popup**: -87 users (-43.7%) | 14 key events
 
 #### Top Landing Page Changes
 **Highest Traffic Growth Pages:**
@@ -155,11 +200,26 @@
 
 ⚠️ *This comparison includes incomplete week(s) - see Data Completeness Notice above.*
 
-#### Top Channel Changes
+#### Complete Channel Performance Table
+| Channel | Current Week Users | Previous Week Users | User Change | User Change % | Current Week Key Events | Previous Week Key Events | Key Event Change | Key Event Change % |
+|---------|-------------------:|--------------------:|------------:|--------------:|------------------------:|-------------------------:|-----------------:|-------------------:|
+| Paid Social | 42 | 115 | -73 | -63.5% | 0 | 1 | -1 | -100.0% |
+| Referrals - Public Relations | 29 | 117 | -88 | -75.2% | 5 | 11 | -6 | -54.5% |
+| Earned Social | 132 | 300 | -168 | -56.0% | 2 | 11 | -9 | -81.8% |
+| Referrals - Internal Platforms | 100 | 277 | -177 | -63.9% | 0 | 1 | -1 | -100.0% |
+| Source/Medium Other | 185 | 393 | -208 | -52.9% | 4 | 28 | -24 | -85.7% |
+| AI Search | 235 | 668 | -433 | -64.8% | 7 | 19 | -12 | -63.2% |
+| Referrals - Other | 415 | 1,015 | -600 | -59.1% | 6 | 27 | -21 | -77.8% |
+| Paid Search | 3,335 | 9,844 | -6,509 | -66.1% | 272 | 783 | -511 | -65.3% |
+| Email | 1,297 | 8,193 | -6,896 | -84.2% | 94 | 356 | -262 | -73.6% |
+| Organic Search | 4,299 | 12,325 | -8,026 | -65.1% | 87 | 283 | -196 | -69.3% |
+| Direct | 7,835 | 21,900 | -14,065 | -64.2% | 100 | 404 | -304 | -75.2% |
+
+#### Top Channel Highlights
 **Biggest User Increases:**
-- **Paid Social**: +-73 users (-63.5%)
-- **Referrals - Public Relations**: +-88 users (-75.2%)
-- **Earned Social**: +-168 users (-56.0%)
+- **Paid Social**: -73 users (-63.5%)
+- **Referrals - Public Relations**: -88 users (-75.2%)
+- **Earned Social**: -168 users (-56.0%)
 
 **Biggest User Decreases:**
 - **Direct**: -14,065 users (-64.2%)
@@ -169,18 +229,18 @@
 #### Top Source/Medium Changes
 **Biggest Traffic Increases:**
 - **(not set)**: +66 users (+23.9%) | 5 key events
-- **chatgpt.com / referral**: +-307 users (-65.2%) | 4 key events
-- **bing / cpc**: +-404 users (-59.1%) | 7 key events
-- **bing / organic**: +-945 users (-60.4%) | 17 key events
-- **google / cpc**: +-6,107 users (-66.7%) | 265 key events
+- **chatgpt.com / referral**: -307 users (-65.2%) | 4 key events
+- **bing / cpc**: -404 users (-59.1%) | 7 key events
+- **bing / organic**: -945 users (-60.4%) | 17 key events
+- **google / cpc**: -6,107 users (-66.7%) | 265 key events
 
 #### Top Landing Page Changes
 **Highest Traffic Growth Pages:**
 - `/research-and-insights/how-to-get-leadership-buy-in-your-comp-budget`: +266 users (+1330.0%)
 - `/research-and-insights/running-a-second-comp-cycle`: +42 users (+466.7%)
 - `/about/privacy-policy/request-user-preferences-email/`: +30 users (+68.2%)
-- `/customer-stories/independent-bank/`: +-6 users (-10.5%)
-- `/why-payscale/customer-stories`: +-53 users (-50.0%)
+- `/customer-stories/independent-bank/`: -6 users (-10.5%)
+- `/why-payscale/customer-stories`: -53 users (-50.0%)
 
 #### Top Landing Page + Source/Medium Combinations
 **Highest Growth Combinations:**
