@@ -12,6 +12,10 @@ title: Payscale SEO Custom Tools - Log Analysis
 
 - [Pulled Week of 10/20/24](/outputs/weekly_analytics/week-of-oct20-2024.md)
 
+## Monthly Trending Analytics Overviews
+- [YoY Data - Oct 1st - 20th, 2025](/outputs/monthly_trending_analysis/oct1-20_2025.md)
+
+
 ## Links
 Please find the links for the tools that parse the Botify data. The Colab tool, specifically step 2, requires the spreadsheet and the JSON formatter for ongoing categorization of the site by sections.
 
