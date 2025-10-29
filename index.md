@@ -9,11 +9,13 @@ title: Payscale SEO Custom Tools - Log Analysis
 ## Weekly Analytics Overviews
 - [Pulled Week of 10/13/25](/outputs/weekly_analytics/week-of-oct13-2025.md)
 - [Pulled Week of 10/20/25](/outputs/weekly_analytics/week-of-oct20-2025.md)
+- [Pulled Week of 10/27/25](/outputs/weekly_analytics/week-of-oct27-2025.md)
 
 - [Pulled Week of 10/20/24](/outputs/weekly_analytics/week-of-oct20-2024.md)
 
 ## Monthly Trending Analytics Overviews
 - [YoY Data - Oct 1st - 20th, 2025](/outputs/monthly_trending_analysis/oct1-20_2025.md)
+- [YoY Data - Oct 1st - 27th, 2025](/outputs/monthly_trending_analysis/oct1-27_2025.md)
 
 
 ## Links
