@@ -16,6 +16,7 @@ title: Payscale SEO Custom Tools - Log Analysis
 ## Monthly Trending Analytics Overviews
 - [YoY Data - Oct 1st - 20th, 2025](/outputs/monthly_trending_analysis/oct1-20_2025.md)
 - [YoY Data - Oct 1st - 27th, 2025](/outputs/monthly_trending_analysis/oct1-27_2025.md)
+- [YoY Data - Oct 1st - 31st, 2025](/outputs/monthly_trending_analysis/oct1-31_2025.md)
 
 
 ## Links
